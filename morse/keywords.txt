@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Morse	KEYWORD1
 dash	KEYWORD2
 dot	KEYWORD2
+=======
+Morse	KEYWORD1
+dash	KEYWORD2
+dot	KEYWORD2
+>>>>>>> d614783c60d1811c2d51b006b138ed6f479bbffd
